@@ -1,0 +1,15 @@
+<h1>New tipo_de_exercicio</h1>
+
+<% form_for(@tipo_de_exercicio) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :nome %><br />
+    <%= f.text_field :nome %>
+  </p>
+  <p>
+    <%= f.submit 'Create' %>
+  </p>
+<% end %>
+
+<%= link_to 'Back', tipo_de_exercicios_path %>

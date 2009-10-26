@@ -1,0 +1,258 @@
+pt-BR:
+  # formatos de data e hora
+  date:
+    formats:
+      default: "%d/%m/%Y"
+      short: "%d de %B"
+      long: "%d de %B de %Y"
+
+    day_names: [Domingo, Segunda, Terça, Quarta, Quinta, Sexta, Sábado]
+    abbr_day_names: [Dom, Seg, Ter, Qua, Qui, Sex, Sáb]
+    month_names: [~, Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro]
+    abbr_month_names: [~, Jan, Fev, Mar, Abr, Mai, Jun, Jul, Ago, Set, Out, Nov, Dez]
+    order: [ :day, :month, :year ]
+
+  time:
+    formats:
+      default: "%A, %d de %B de %Y, %H:%M hs"
+      short: "%d/%m, %H:%M hs"
+      long: "%A, %d de %B de %Y, %H:%M hs"
+    am: ''
+    pm: ''
+
+  # date helper distanci em palavras
+  datetime:
+    distance_in_words:
+      half_a_minute: 'meio minuto'
+      less_than_x_seconds:
+        one: 'menos de 1 segundo'
+        other: 'menos de {{count}} segundos'
+
+      x_seconds:
+        one: '1 segundo'
+        other: '{{count}} segundos'
+
+      less_than_x_minutes:
+        one: 'menos de um minuto'
+        other: 'menos de {{count}} minutos'
+
+      x_minutes:
+        one: '1 minuto'
+        other: '{{count}} minutos'
+
+      about_x_hours:
+        one: 'aproximadamente 1 hora'
+        other: 'aproximadamente {{count}} horas'
+
+      x_days:
+        one: '1 dia'
+        other: '{{count}} dias'
+
+      about_x_months:
+        one: 'aproximadamente 1 mês'
+        other: 'aproximadamente {{count}} meses'
+
+      x_months:
+        one: '1 mês'
+        other: '{{count}} meses'
+
+      about_x_years:
+        one: 'aproximadamente 1 ano'
+        other: 'aproximadamente {{count}} anos'
+
+      over_x_years:
+        one: 'mais de 1 ano'
+        other: 'mais de {{count}} anos'
+    prompts:
+      year: "Ano"
+      month: "Mês"
+      day: "Dia"
+      hour: "Hora"
+      minute: "Minuto"
+      second: "Segundos"
+
+  # numeros
+  number:
+    format:
+      precision: 3
+      separator: ','
+      delimiter: '.'
+    currency:
+      format:
+        unit: 'R$'
+        precision: 2
+        format: '%u %n'
+        separator: ','
+        delimiter: '.'
+    percentage:
+      format:
+        delimiter: '.'
+    precision:
+      format:
+        delimiter: '.'
+    human:
+      format:
+        precision: 1
+        delimiter: '.'
+      storage_units:
+        format: "%n %u"
+        units:
+          byte:
+            one: "Byte"
+            other: "Bytes"
+          kb: "KB"
+          mb: "MB"
+          gb: "GB"
+          tb: "TB"
+
+# Used in array.to_sentence.
+  support:
+    array:
+      words_connector: ", "
+      two_words_connector: " e "
+      last_word_connector: " e "
+
+  # Active Record
+  activerecord:
+    errors:
+      template:
+        header:
+          one: "Não foi possível gravar {{model}}: 1 erro"
+          other: "Não foi possível gravar {{model}}: {{count}} erros."
+        body: "Por favor, verifique o(s) seguinte(s) campo(s):"
+      messages:
+        login_blank: "deve ser preenchido"
+        attribute_greater_than: "deve ser maior que {{attribute}}"
+        inclusion: "Inválido"
+        exclusion: "Indisponível"
+        invalid: "não é válido"
+        confirmation: "não está de acordo com a confirmação"
+        accepted: "deve ser aceito"
+        empty: "não pode ficar vazio"
+        blank: "Campo obrigatório"
+        too_long: "Texto muito longo (máximo: {{count}} caracteres)"
+        too_short: "Texto muito curto (mínimo: {{count}} caracteres)"
+        wrong_length: "não possui o tamanho esperado ({{count}} caracteres)"
+        taken: "Já está em uso"
+        not_a_number: "não é um número"
+        greater_than: "deve ser maior do que {{count}}"
+        greater_than_or_equal_to: "deve ser maior ou igual a {{count}}"
+        equal_to: "deve ser igual a {{count}}"
+        less_than: "deve ser menor do que {{count}}"
+        less_than_or_equal_to: "deve ser menor ou igual a {{count}}"
+        odd: "deve ser ímpar"
+        even: "deve ser par"
+    models:
+      user:
+        one: Usuário
+        other: Usuários
+    attributes:
+      _all:
+        created_at: "Criado em"
+        updated_at: "Ultima modificação"
+      empresa:
+        cnpj: "CNPJ"
+        nome_fantasia: "Nome fantasia"
+        razao_social: "Raz&atilde;o social"
+        responsavel: "Respons&aacute;vel"
+        email: "E-mail"
+        cep: "CEP"
+        endereco: "Endere&ccedil;o"
+        ddd: "DDD"
+        como_soube_desse_site: "Como soube deste site?"
+        denominacao_social: "Denomina&ccedil;&atilde;o social"
+      vaga:
+        titulo: "T&iacute;tulo do an&uacute;ncio"
+        descricao: "Descri&ccedil;&atilde;o"
+        quantidade: "Quantidade"
+        cidade: "Cidade"
+        divulga_data_inicial: "Per&iacute;odo de divulga&ccedil;&atilde;o"
+        divulga_data_final: "Data final de divulga&ccedil;&atilde;o"
+        divulgar_nome: "Divulgar nome da empresa"
+        tipo_salarial: "Tipo salarial"
+        salario_faixa_min: "De"
+        salario_faixa_max: "At&eacute;"
+        comissao: "M&eacute;dia de comiss&atilde;o"
+        experiencia: "Experi&ecirc;ncia requerida"
+        escolaridade: "Escolaridade m&iacute;nima"
+        idade_min: "Idade"
+        idade_max: "at&eacute;"
+        carga_horaria: "Carga hor&aacute;ria"
+        receber_curriculos: "Autorizar recebimento de curr&iacute;culos direto do candidato"
+        conhecimentos_obrigatorios: "Conhecimentos obrigat&oacute;rios"
+        conhecimentos_desejaveis: "Conhecimentos desej&aacute;veis"
+        beneficios: "Benef&iacute;cios"
+        ingles: "Ingl&ecirc;s"
+      curriculo:
+        nome: "Nome"
+        email: "Email"
+        cpf: "CPF"
+        senha: "Senha"
+        cep: "CEP"
+        endereco: "Endere&ccedil;o"
+        ddd: "DDD"
+        como_soube: "Como soube deste site?"
+        divulgar_nome: "Divulgar meu nome"
+        data_nascimento: "Data de nascimento"
+        empregado: "Empregado atualmente"
+        tipo_combinar: "A combinar"
+        escolaridade: "Escolaridade"
+        situacao: "Situa&ccedil;&atilde;o"
+        area_formacao: "&Aacute;rea de forma&ccedil;&atilde;o"
+        instituicao: "Institui&ccedil;&atilde;o"
+        conclusao_mes: "Conclusão"
+        conclusao_ano: "de"
+        salario: "Pretens&atilde;o salarial"
+        conclusao_mes: "Conclus&atilde;o"
+        conclusao_ano: "Ano de conclus&atilde;o"
+        observacoes_complementares: "Observa&ccedil;&otilde;es complementares"
+      password_resets:
+        password: "Nova senha"
+        password_confirmation: "Digite a senha novamente"
+      user:
+        password: "Senha"
+        password_confirmation: "Confirmação de senha"
+        email: "E-mail"
+
+  authlogic:
+    error_messages:
+      login_blank: "deve ser preenchido"
+      invalid: "inválido"
+      login_not_found: "inválido"
+      login_invalid: "deve possuir apenas letras, números e .-_@"
+      consecutive_failed_logins_limit_exceeded:  "Conta desabilitada - Voce excedeu o número de tentativas."
+      email_invalid: "inválido"
+      password_blank: "deve ser preenchida"
+      password_invalid: "inválida"
+      not_active: "Conta desativada"
+      not_confirmed: "Conta não confere"
+      not_approved: "Conta não aprovada"
+      no_authentication_details: "Preencha todos os campos"
+    models:
+      user_session: UserSession
+    attributes:
+      user_session:
+        login: "Login"
+        email: "Email"
+        password: "Senha"
+        remember_me: "Lembrar minha senha"
+      user:
+        new_password: "Nova senha:"
+        password: "Senha:"
+        password_confirmation: "Confirma&ccedil;&atilde;o de senha:"
+        empresa: "Empresa:"
+        email: "Email:"
+        login: "Login:"
+        fone: "Telefone:"
+        celular: "Celular:"
+        perfil: "Perfil:"
+        nome: "Nome:"
+        premio: "Pr&ecirc;mio"
+
+  txt:
+    shared:
+      create: Salvar
+      update: Salvar
+      required: Obrigatório
+      password: Senha
+

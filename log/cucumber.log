@@ -1,0 +1,1784 @@
+# Logfile created on Sat Oct 24 04:39:57 -0300 2009  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:47:30) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.7ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (343.9ms)
+Completed in 390ms (View: 374, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:48:58) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (239.0ms)
+Completed in 266ms (View: 247, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:50:05) [GET]
+  [4;35;1mExercicio Columns (109.6ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (259.8ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (1010.9ms)
+Completed in 1140ms (View: 760, DB: 370) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:50:41) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (277.9ms)
+Completed in 306ms (View: 293, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:51:23) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.9ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (325.2ms)
+Completed in 347ms (View: 333, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:51:47) [GET]
+  [4;35;1mExercicio Columns (2.6ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.1ms)
+Completed in 257ms (View: 244, DB: 4) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:52:46) [GET]
+  [4;35;1mExercicio Columns (2.2ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (239.0ms)
+Completed in 260ms (View: 247, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:53:45) [GET]
+  [4;35;1mExercicio Columns (2.5ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (296.1ms)
+Completed in 324ms (View: 304, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:54:20) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (266.9ms)
+Completed in 305ms (View: 276, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:56:07) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.5ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (535.3ms)
+Completed in 556ms (View: 544, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.6ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:57:23) [GET]
+  [4;35;1mExercicio Columns (2.3ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.5ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (283.7ms)
+Completed in 311ms (View: 292, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:58:18) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.5ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (239.8ms)
+Completed in 262ms (View: 248, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 04:59:46) [GET]
+  [4;35;1mExercicio Columns (2.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (306.4ms)
+Completed in 345ms (View: 325, DB: 4) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:00:50) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (287.1ms)
+Completed in 324ms (View: 295, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:01:28) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (311.9ms)
+Completed in 343ms (View: 320, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:02:22) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (234.8ms)
+Completed in 255ms (View: 243, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:03:01) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.5ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (244.0ms)
+Completed in 267ms (View: 256, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:03:44) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (260.3ms)
+Completed in 281ms (View: 269, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:04:19) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.8ms)
+Completed in 257ms (View: 245, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:05:16) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.5ms)
+Completed in 257ms (View: 245, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:06:08) [GET]
+  [4;35;1mExercicio Columns (2.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (398.3ms)
+Completed in 422ms (View: 409, DB: 4) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:06:31) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.7ms)
+Completed in 256ms (View: 245, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:07:50) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (234.7ms)
+Completed in 255ms (View: 243, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:08:40) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.1ms)
+Completed in 257ms (View: 244, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:10:59) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (318.3ms)
+Completed in 338ms (View: 326, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:11:33) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (236.9ms)
+Completed in 258ms (View: 246, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:12:05) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (237.7ms)
+Completed in 258ms (View: 246, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:13:08) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (356.9ms)
+Completed in 377ms (View: 365, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:14:08) [GET]
+  [4;35;1mExercicio Columns (1.9ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (347.2ms)
+Completed in 369ms (View: 356, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:14:48) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (234.7ms)
+Completed in 254ms (View: 243, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:15:11) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (259.3ms)
+Completed in 280ms (View: 268, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:17:23) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (237.3ms)
+Completed in 258ms (View: 246, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:18:01) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (253.7ms)
+Completed in 275ms (View: 263, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:19:55) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (235.9ms)
+Completed in 256ms (View: 245, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:21:33) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (233.8ms)
+Completed in 254ms (View: 242, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:23:24) [GET]
+  [4;35;1mExercicio Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (278.1ms)
+Completed in 297ms (View: 286, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:24:57) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.5ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (281.1ms)
+Completed in 308ms (View: 290, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:26:43) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (247.6ms)
+Completed in 268ms (View: 256, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.3ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:27:50) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (239.1ms)
+Completed in 259ms (View: 248, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (7.9ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:28:47) [GET]
+  [4;35;1mExercicio Columns (2.0ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (269.5ms)
+Completed in 297ms (View: 278, DB: 11) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:29:05) [GET]
+  [4;35;1mExercicio Columns (2.1ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.6ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (292.8ms)
+Completed in 314ms (View: 301, DB: 3) | 200 OK [http://www.example.com/exercicios/new]
+  [4;35;1mSQL (0.2ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (3.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (1.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (2.5ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (45.4ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (21.7ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (19.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (20.4ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.7ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (3.4ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.9ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 08:53:23', 'Corrida', '2009-10-24 08:53:23')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:53:23) [GET]
+  [4;35;1mExercicio Columns (2.3ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.4ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (97.0ms)
+Completed in 134ms (View: 105, DB: 6) | 200 OK [http://www.example.com/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"24", "fim(4i)"=>"08", "fim(5i)"=>"53", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"1", "inicio(2i)"=>"10", "inicio(3i)"=>"24", "inicio(4i)"=>"08", "inicio(5i)"=>"53", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-24 05:53:24) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"24", "fim(4i)"=>"08", "tipo_de_exercicio_id"=>"1", "inicio(1i)"=>"2009", "fim(5i)"=>"53", "inicio(2i)"=>"10", "inicio(3i)"=>"24", "inicio(4i)"=>"08", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"53", "fim(1i)"=>"2009"}}
+  [4;35;1mSQL (0.2ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mExercicio Create (0.7ms)[0m   [0;1mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-24 08:53:24', 1, '2009-10-24 08:53:24', '2009-10-24 08:53:00', 155, '2009-10-24 08:53:00')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://www.example.com/exercicios/1
+Completed in 20ms (DB: 1) | 302 Found [http://www.example.com/exercicios]
+REQUESTING PAGE: GET http://www.example.com/exercicios/1 with {} and HTTP headers {"HTTP_REFERER"=>"/exercicios"}
+
+
+Processing ExerciciosController#show (for 127.0.0.1 at 2009-10-24 05:53:24) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mExercicio Load (0.4ms)[0m   [0;1mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) [0m
+Rendering template within layouts/exercicios
+Rendering exercicios/show
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` WHERE (`tipo_de_exercicios`.`id` = 1) [0m
+Completed in 12ms (View: 8, DB: 1) | 200 OK [http://www.example.com/exercicios/1]
+  [4;36;1mSQL (22.0ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (19.0ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.9ms)[0m   [0mTRUNCATE TABLE `testes`;[0m
+  [4;36;1mSQL (1.8ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 08:55:41', 'Corrida', '2009-10-24 08:55:41')[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+REQUESTING PAGE: GET /exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-24 05:55:41) [GET]
+  [4;35;1mExercicio Columns (1.8ms)[0m   [0mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;36;1mTipoDeExercicio Load (0.4ms)[0m   [0;1mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (137.3ms)
+Completed in 172ms (View: 156, DB: 5) | 200 OK [http://www.example.com/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"24", "fim(4i)"=>"08", "fim(5i)"=>"55", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"1", "inicio(2i)"=>"10", "inicio(3i)"=>"24", "inicio(4i)"=>"08", "inicio(5i)"=>"55", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-24 05:55:42) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"24", "fim(4i)"=>"08", "tipo_de_exercicio_id"=>"1", "inicio(1i)"=>"2009", "fim(5i)"=>"55", "inicio(2i)"=>"10", "inicio(3i)"=>"24", "inicio(4i)"=>"08", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"55", "fim(1i)"=>"2009"}}
+  [4;35;1mSQL (0.2ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-24 08:55:42', 1, '2009-10-24 08:55:42', '2009-10-24 08:55:00', 155, '2009-10-24 08:55:00')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://www.example.com/exercicios/1
+Completed in 24ms (DB: 1) | 302 Found [http://www.example.com/exercicios]
+REQUESTING PAGE: GET http://www.example.com/exercicios/1 with {} and HTTP headers {"HTTP_REFERER"=>"/exercicios"}
+
+
+Processing ExerciciosController#show (for 127.0.0.1 at 2009-10-24 05:55:42) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mExercicio Load (0.4ms)[0m   [0;1mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) [0m
+Rendering template within layouts/exercicios
+Rendering exercicios/show
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` WHERE (`tipo_de_exercicios`.`id` = 1) [0m
+Completed in 23ms (View: 19, DB: 1) | 200 OK [http://www.example.com/exercicios/1]
+  [4;36;1mSQL (0.6ms)[0m   [0;1mROLLBACK[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (14.6ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (8.4ms)[0m   [0mTRUNCATE TABLE `testes`;[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (21.8ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:03:16', 'Corrida', '2009-10-24 09:03:16')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (1.7ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:05:00', 'Corrida', '2009-10-24 09:05:00')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (28.7ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (2.0ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.9ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (9.9ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:06:47', 'Corrida', '2009-10-24 09:06:47')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (16.2ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:08:35', 'Corrida', '2009-10-24 09:08:35')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (16.3ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (8.1ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.7ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (3.5ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:10:21', 'Jiujitsu', '2009-10-24 09:10:21')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.5ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:10:22', 'Ciclismo', '2009-10-24 09:10:22')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:10:22', 'Corrida', '2009-10-24 09:10:22')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (57.9ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (8.5ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (2.1ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (2.3ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:12:38', 'Jiujitsu', '2009-10-24 09:12:38')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:12:38', 'Ciclismo', '2009-10-24 09:12:38')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:12:38', 'Corrida', '2009-10-24 09:12:38')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (16.4ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.7ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (4.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:14:38', 'Jiujitsu', '2009-10-24 09:14:38')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:14:38', 'Ciclismo', '2009-10-24 09:14:38')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 09:14:38', 'Corrida', '2009-10-24 09:14:38')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (2.8ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (3.5ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (3.2ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (9.5ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (77.5ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (199.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 13:15:00', 'Jiujitsu', '2009-10-24 13:15:00')[0m
+  [4;35;1mSQL (32.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 13:15:01', 'Ciclismo', '2009-10-24 13:15:01')[0m
+  [4;36;1mSQL (2.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-24 13:15:01', 'Corrida', '2009-10-24 13:15:01')[0m
+  [4;35;1mSQL (2.3ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (39.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (104.0ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (45.4ms)[0m   [0;1mTRUNCATE TABLE `testes`;[0m
+  [4;35;1mSQL (36.1ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (19.5ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (30.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (104.1ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:06', 'Jiujitsu', '2009-10-25 13:20:06')[0m
+  [4;35;1mSQL (38.1ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:06', 'Ciclismo', '2009-10-25 13:20:06')[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:06', 'Corrida', '2009-10-25 13:20:06')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (44.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (52.3ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (121.0ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (3.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:38', 'Jiujitsu', '2009-10-25 13:20:38')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:38', 'Ciclismo', '2009-10-25 13:20:38')[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:20:38', 'Corrida', '2009-10-25 13:20:38')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (3.2ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:30:58', 'Jiujitsu', '2009-10-25 13:30:58')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:30:58', 'Ciclismo', '2009-10-25 13:30:58')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:30:58', 'Corrida', '2009-10-25 13:30:58')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:30:58) [GET]
+  [4;36;1mExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (109.1ms)
+Completed in 131ms (View: 119, DB: 7) | 200 OK [http://localhost/exercicios/new]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (25.8ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:31:56', 'Jiujitsu', '2009-10-25 13:31:56')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:31:56', 'Ciclismo', '2009-10-25 13:31:56')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:31:56', 'Corrida', '2009-10-25 13:31:56')[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:31:56) [GET]
+  [4;36;1mExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (105.1ms)
+Completed in 126ms (View: 114, DB: 8) | 200 OK [http://localhost/exercicios/new]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (12.9ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:35:20', 'Jiujitsu', '2009-10-25 13:35:20')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:35:20', 'Ciclismo', '2009-10-25 13:35:20')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:35:20', 'Corrida', '2009-10-25 13:35:20')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:35:21) [GET]
+  [4;36;1mExercicio Columns (2.1ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (116.3ms)
+Completed in 140ms (View: 127, DB: 7) | 200 OK [http://localhost/exercicios/new]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.5ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:32', 'Jiujitsu', '2009-10-25 13:45:32')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:32', 'Ciclismo', '2009-10-25 13:45:32')[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:32', 'Corrida', '2009-10-25 13:45:32')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:45:33) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (107.4ms)
+Completed in 129ms (View: 116, DB: 7) | 200 OK [http://localhost/exercicios/new]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (3.4ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:59', 'Jiujitsu', '2009-10-25 13:45:59')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:59', 'Ciclismo', '2009-10-25 13:45:59')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:45:59', 'Corrida', '2009-10-25 13:45:59')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:46:00) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (101.1ms)
+Completed in 121ms (View: 109, DB: 7) | 200 OK [http://localhost/exercicios/new]
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.6ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (2.0ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:47:59', 'Jiujitsu', '2009-10-25 13:47:59')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:47:59', 'Ciclismo', '2009-10-25 13:47:59')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:47:59', 'Corrida', '2009-10-25 13:47:59')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:47:59) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (102.0ms)
+Completed in 124ms (View: 112, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:47:59) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (13.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:47:59', 3, '2009-10-25 13:47:59', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 26ms (DB: 14) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (25.7ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.9ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:50:50', 'Jiujitsu', '2009-10-25 13:50:50')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:50:50', 'Ciclismo', '2009-10-25 13:50:50')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:50:50', 'Corrida', '2009-10-25 13:50:50')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:50:51) [GET]
+  [4;36;1mExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (105.5ms)
+Completed in 128ms (View: 116, DB: 7) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:50:51) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:50:51', 3, '2009-10-25 13:50:51', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 14ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (11.2ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.5ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:54:07', 'Jiujitsu', '2009-10-25 13:54:07')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:54:07', 'Ciclismo', '2009-10-25 13:54:07')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:54:07', 'Corrida', '2009-10-25 13:54:07')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:54:07) [GET]
+  [4;36;1mExercicio Columns (2.1ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.5ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (107.4ms)
+Completed in 130ms (View: 117, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:54:07) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:54:07', 3, '2009-10-25 13:54:07', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 16ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (27.9ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (4.4ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (19.3ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:15', 'Jiujitsu', '2009-10-25 13:57:15')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:15', 'Ciclismo', '2009-10-25 13:57:15')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:15', 'Corrida', '2009-10-25 13:57:15')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:57:15) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (99.8ms)
+Completed in 241ms (View: 108, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:57:15) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:57:15', 3, '2009-10-25 13:57:15', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (2.2ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:41', 'Jiujitsu', '2009-10-25 13:57:41')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.5ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:41', 'Ciclismo', '2009-10-25 13:57:41')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:57:41', 'Corrida', '2009-10-25 13:57:41')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:57:41) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (101.2ms)
+Completed in 122ms (View: 110, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:57:41) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:57:41', 3, '2009-10-25 13:57:41', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 14ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (1.9ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.4ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:58:38', 'Jiujitsu', '2009-10-25 13:58:38')[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (1.7ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (1.5ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:58:38', 'Ciclismo', '2009-10-25 13:58:38')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 13:58:38', 'Corrida', '2009-10-25 13:58:38')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 10:58:38) [GET]
+  [4;36;1mExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (99.9ms)
+Completed in 120ms (View: 108, DB: 10) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 10:58:38) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 13:58:38', 3, '2009-10-25 13:58:38', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (2.5ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (2.7ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.7ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:03:52', 'Jiujitsu', '2009-10-25 14:03:52')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.5ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:03:52', 'Ciclismo', '2009-10-25 14:03:52')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:03:52', 'Corrida', '2009-10-25 14:03:52')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:03:52) [GET]
+  [4;36;1mExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (100.5ms)
+Completed in 121ms (View: 109, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:03:52) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:03:52', 3, '2009-10-25 14:03:52', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (2.3ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.4ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:11:26', 'Jiujitsu', '2009-10-25 14:11:26')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:11:26', 'Ciclismo', '2009-10-25 14:11:26')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:11:26', 'Corrida', '2009-10-25 14:11:26')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:11:26) [GET]
+  [4;36;1mExercicio Columns (2.3ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.8ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (107.7ms)
+Completed in 129ms (View: 117, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:11:26) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.5ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:11:26', 3, '2009-10-25 14:11:26', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (1.9ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:12:33', 'Jiujitsu', '2009-10-25 14:12:33')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:12:33', 'Ciclismo', '2009-10-25 14:12:33')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:12:33', 'Corrida', '2009-10-25 14:12:33')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:12:34) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (103.3ms)
+Completed in 124ms (View: 112, DB: 7) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:12:34) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:12:34', 3, '2009-10-25 14:12:34', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 15ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (2.3ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:14:02', 'Jiujitsu', '2009-10-25 14:14:02')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:14:02', 'Ciclismo', '2009-10-25 14:14:02')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:14:02', 'Corrida', '2009-10-25 14:14:02')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:14:02) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (99.7ms)
+Completed in 120ms (View: 108, DB: 7) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:14:03) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:14:03', 3, '2009-10-25 14:14:03', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (2.9ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 15ms (DB: 3) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (1.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:01', 'Jiujitsu', '2009-10-25 14:15:01')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:01', 'Ciclismo', '2009-10-25 14:15:01')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:01', 'Corrida', '2009-10-25 14:15:01')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:15:01) [GET]
+  [4;36;1mExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (98.3ms)
+Completed in 118ms (View: 107, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:15:02) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:15:02', 3, '2009-10-25 14:15:02', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 16ms (DB: 2) | 302 Found [http://localhost/exercicios]
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (1.7ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.8ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:54', 'Jiujitsu', '2009-10-25 14:15:54')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:54', 'Ciclismo', '2009-10-25 14:15:54')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:15:54', 'Corrida', '2009-10-25 14:15:54')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:15:54) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (102.4ms)
+Completed in 123ms (View: 111, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:15:55) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.5ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:15:55', 3, '2009-10-25 14:15:55', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mExercicio Load (18.7ms)[0m   [0mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) LIMIT 1[0m
+  [4;36;1mExercicio Load (0.2ms)[0m   [0;1mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) LIMIT 1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (1.8ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:18:13', 'Jiujitsu', '2009-10-25 14:18:13')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:18:13', 'Ciclismo', '2009-10-25 14:18:13')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:18:13', 'Corrida', '2009-10-25 14:18:13')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:18:14) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.8ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (144.6ms)
+Completed in 166ms (View: 153, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:18:14) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:18:14', 3, '2009-10-25 14:18:14', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 12ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mExercicio Load (0.8ms)[0m   [0mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (24.0ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:19:18', 'Jiujitsu', '2009-10-25 14:19:18')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.5ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:19:18', 'Ciclismo', '2009-10-25 14:19:18')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:19:18', 'Corrida', '2009-10-25 14:19:18')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:19:18) [GET]
+  [4;36;1mExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.4ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (100.6ms)
+Completed in 121ms (View: 109, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:19:19) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:19:19', 3, '2009-10-25 14:19:19', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mExercicio Load (0.4ms)[0m   [0mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (5.1ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.8ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:20:19', 'Jiujitsu', '2009-10-25 14:20:19')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:20:19', 'Ciclismo', '2009-10-25 14:20:19')[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:20:19', 'Corrida', '2009-10-25 14:20:19')[0m
+  [4;35;1mSQL (1.0ms)[0m   [0mCOMMIT[0m
+REQUESTING PAGE: GET http://localhost:3001/exercicios/new with {} and HTTP headers {}
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2009-10-25 11:20:20) [GET]
+  [4;36;1mExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (0.5ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+Rendered exercicios/_form (102.7ms)
+Completed in 123ms (View: 111, DB: 8) | 200 OK [http://localhost/exercicios/new]
+REQUESTING PAGE: POST /exercicios with {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "inicio(5i)"=>"30", "frequencia_cardiaca"=>"155", "fim(1i)"=>"2009"}} and HTTP headers {"HTTP_REFERER"=>"http://localhost:3001/exercicios/new"}
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2009-10-25 11:20:20) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"10", "fim(3i)"=>"25", "fim(4i)"=>"11", "tipo_de_exercicio_id"=>"3", "inicio(1i)"=>"2009", "fim(5i)"=>"30", "inicio(2i)"=>"10", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mExercicio Create (0.4ms)[0m   [0mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2009-10-25 14:20:20', 3, '2009-10-25 14:20:20', '2009-10-25 10:30:00', 155, '2009-10-25 11:30:00')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+Redirected to http://localhost/exercicios/1
+Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
+  [4;35;1mExercicio Load (0.4ms)[0m   [0mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) LIMIT 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (2.5ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.5ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (4.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:25:34', 'Jiujitsu', '2009-10-25 14:25:34')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:25:34', 'Ciclismo', '2009-10-25 14:25:34')[0m
+  [4;36;1mSQL (15.5ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 14:25:34', 'Corrida', '2009-10-25 14:25:34')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.6ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (26.1ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.9ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:18:06', 'Jiujitsu', '2009-10-25 15:18:06')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:18:06', 'Ciclismo', '2009-10-25 15:18:06')[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:18:06', 'Corrida', '2009-10-25 15:18:06')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (16.6ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (46.2ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (3.0ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (1.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (4.3ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:21:30', 'Jiujitsu', '2009-10-25 15:21:30')[0m
+  [4;35;1mSQL (0.8ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:21:30', 'Ciclismo', '2009-10-25 15:21:30')[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 15:21:30', 'Corrida', '2009-10-25 15:21:30')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.5ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (28.9ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (3.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:07:34', 'Jiujitsu', '2009-10-25 17:07:34')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:07:34', 'Ciclismo', '2009-10-25 17:07:34')[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:07:34', 'Corrida', '2009-10-25 17:07:34')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (16.3ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.8ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (21.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (1.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:09:55', 'Jiujitsu', '2009-10-25 17:09:55')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:09:55', 'Ciclismo', '2009-10-25 17:09:55')[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:09:55', 'Corrida', '2009-10-25 17:09:55')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (1.4ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (30.3ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (2.9ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (3.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (3.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:11:15', 'Jiujitsu', '2009-10-25 17:11:15')[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:11:16', 'Ciclismo', '2009-10-25 17:11:16')[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 17:11:16', 'Corrida', '2009-10-25 17:11:16')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (7.4ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (31.2ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (72.9ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (104.6ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (620.7ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (245.7ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 23:59:26', 'Jiujitsu', '2009-10-25 23:59:26')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mTipoDeExercicio Create (0.7ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 23:59:26', 'Ciclismo', '2009-10-25 23:59:26')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-25 23:59:26', 'Corrida', '2009-10-25 23:59:26')[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (207.4ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (51.9ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (566.9ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (163.7ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Columns (41.1ms)[0m   [0mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.4ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:06:39', 'Jiujitsu', '2009-10-26 00:06:39')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSAVEPOINT active_record_1[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:06:39', 'Ciclismo', '2009-10-26 00:06:39')[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mRELEASE SAVEPOINT active_record_1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSAVEPOINT active_record_1[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:06:39', 'Corrida', '2009-10-26 00:06:39')[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mRELEASE SAVEPOINT active_record_1[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSHOW TABLES[0m
+  [4;36;1mSQL (32.3ms)[0m   [0;1mTRUNCATE TABLE `exercicios`;[0m
+  [4;35;1mSQL (31.7ms)[0m   [0mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mROLLBACK[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (13.1ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.5ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:07:59', 'Jiujitsu', '2009-10-26 00:07:59')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:07:59', 'Ciclismo', '2009-10-26 00:07:59')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:07:59', 'Corrida', '2009-10-26 00:07:59')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (14.2ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (1.3ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (50.6ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (21.1ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (1.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (13.0ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:11:54', 'Jiujitsu', '2009-10-26 00:11:54')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:11:54', 'Ciclismo', '2009-10-26 00:11:54')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:11:54', 'Corrida', '2009-10-26 00:11:54')[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (7.5ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (2.7ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.8ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:24:10', 'Jiujitsu', '2009-10-26 00:24:10')[0m
+  [4;35;1mSQL (17.0ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:24:10', 'Ciclismo', '2009-10-26 00:24:10')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-26 00:24:10', 'Corrida', '2009-10-26 00:24:10')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (2.8ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (17.4ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m

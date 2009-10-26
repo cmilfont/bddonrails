@@ -1,0 +1,24 @@
+<% form_for(@exercicio) do |f| %>
+  <%= f.error_messages %>
+
+  <p>
+    <%= f.label :tipo_de_exercicio_id %><br />
+    <%= f.select :tipo_de_exercicio_id, TipoDeExercicio.all.collect {|p| [p.nome, p.id]}, :include_blank => false %>
+  </p>
+  <p>
+    <%= f.label :inicio %><br />
+    <%= f.datetime_select :inicio %>
+  </p>
+  <p>
+    <%= f.label :fim %><br />
+    <%= f.datetime_select :fim %>
+  </p>
+  <p>
+    <%= f.label :frequencia_cardiaca %><br />
+    <%= f.text_field :frequencia_cardiaca %>
+  </p>
+  <p>
+    <%= f.submit 'Enviar' %>
+  </p>
+<% end %>
+

@@ -1,0 +1,30 @@
+development:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: test_development
+  pool: 5
+  username: root
+  password: root
+
+test: &TEST
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: test_test
+  pool: 5
+  username: root
+  password: root
+
+production:
+  adapter: mysql
+  encoding: utf8
+  reconnect: false
+  database: test_production
+  pool: 5
+  username: root
+  password: root
+
+
+cucumber:
+  <<: *TEST

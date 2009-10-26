@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  tipo_de_exercicio: 
+  inicio: 2009-10-24 04:10:04
+  fim: 2009-10-24 04:10:04
+  frequencia_cardiaca: 1
+
+two:
+  tipo_de_exercicio: 
+  inicio: 2009-10-24 04:10:04
+  fim: 2009-10-24 04:10:04
+  frequencia_cardiaca: 1

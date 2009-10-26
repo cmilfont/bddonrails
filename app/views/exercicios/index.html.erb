@@ -1,0 +1,27 @@
+<h1>Listing exercicios</h1>
+
+<table>
+  <tr>
+    <th>Tipo de exercicio</th>
+    <th>Inicio</th>
+    <th>Fim</th>
+    <th>Frequencia cardiaca</th>
+  </tr>
+
+<% @exercicios.each do |exercicio| %>
+  <tr>
+    <td><%=h exercicio.tipo_de_exercicio.nome %></td>
+    <td><%=h exercicio.inicio %></td>
+    <td><%=h exercicio.fim %></td>
+    <td><%=h exercicio.frequencia_cardiaca %></td>
+    <td><%= link_to 'Show', exercicio %></td>
+    <td><%= link_to 'Edit', edit_exercicio_path(exercicio) %></td>
+    <td><%= link_to 'Destroy', exercicio, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New exercicio', new_exercicio_path %>
+

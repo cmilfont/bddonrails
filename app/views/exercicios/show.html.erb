@@ -1,0 +1,24 @@
+<p>
+  <b>Tipo de exercicio:</b>
+  <%=h @exercicio.tipo_de_exercicio.nome %>
+</p>
+
+<p>
+  <b>Inicio:</b>
+  <%=h @exercicio.inicio %>
+</p>
+
+<p>
+  <b>Fim:</b>
+  <%=h @exercicio.fim %>
+</p>
+
+<p>
+  <b>Frequencia cardiaca:</b>
+  <%=h @exercicio.frequencia_cardiaca %>
+</p>
+
+
+<%= link_to 'Edit', edit_exercicio_path(@exercicio) %> |
+<%= link_to 'Back', exercicios_path %>
+

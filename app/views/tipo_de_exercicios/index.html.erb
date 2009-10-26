@@ -1,0 +1,20 @@
+<h1>Listing tipo_de_exercicios</h1>
+
+<table>
+  <tr>
+    <th>Nome</th>
+  </tr>
+
+<% @tipo_de_exercicios.each do |tipo_de_exercicio| %>
+  <tr>
+    <td><%=h tipo_de_exercicio.nome %></td>
+    <td><%= link_to 'Show', tipo_de_exercicio %></td>
+    <td><%= link_to 'Edit', edit_tipo_de_exercicio_path(tipo_de_exercicio) %></td>
+    <td><%= link_to 'Destroy', tipo_de_exercicio, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New tipo_de_exercicio', new_tipo_de_exercicio_path %>

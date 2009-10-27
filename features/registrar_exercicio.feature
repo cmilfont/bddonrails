@@ -6,7 +6,6 @@ Feature: Registrar exercicio
   Contexto:
     Dado que tenho tipo de exercício cadastrado
 
-  @wip
   Cenário: Registro de exercício
     Dado que estou em "Cadastrar Exercício"
       E que preencho "Frequencia cardiaca" com "155"

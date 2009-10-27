@@ -1782,3 +1782,39 @@ Completed in 13ms (DB: 1) | 302 Found [http://localhost/exercicios]
   [4;35;1mSQL (2.8ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
   [4;36;1mSQL (17.4ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
   [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (11.2ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (26.0ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:09:28', 'Jiujitsu', '2009-10-27 11:09:28')[0m
+  [4;35;1mSQL (25.9ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.6ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:09:29', 'Ciclismo', '2009-10-27 11:09:29')[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.6ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:09:29', 'Corrida', '2009-10-27 11:09:29')[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (1.0ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.3ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (26.6ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (2.9ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (2.0ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.9ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+  [4;36;1mTipoDeExercicio Columns (1.7ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.4ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:10:58', 'Jiujitsu', '2009-10-27 11:10:58')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.1ms)[0m   [0;1mBEGIN[0m
+  [4;35;1mTipoDeExercicio Create (0.3ms)[0m   [0mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:10:58', 'Ciclismo', '2009-10-27 11:10:58')[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mCOMMIT[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mBEGIN[0m
+  [4;36;1mTipoDeExercicio Create (0.3ms)[0m   [0;1mINSERT INTO `tipo_de_exercicios` (`created_at`, `nome`, `updated_at`) VALUES('2009-10-27 11:10:58', 'Corrida', '2009-10-27 11:10:58')[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mCOMMIT[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSELECT @@FOREIGN_KEY_CHECKS[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 0[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSHOW TABLES[0m
+  [4;35;1mSQL (1.7ms)[0m   [0mTRUNCATE TABLE `exercicios`;[0m
+  [4;36;1mSQL (1.8ms)[0m   [0;1mTRUNCATE TABLE `tipo_de_exercicios`;[0m
+  [4;35;1mSQL (0.2ms)[0m   [0mSET FOREIGN_KEY_CHECKS = 1[0m

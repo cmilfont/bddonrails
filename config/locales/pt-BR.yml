@@ -146,66 +146,17 @@ pt-BR:
       user:
         one: Usuário
         other: Usuários
+      exercicio:
+        one: Exercício
+        other: Exercícios
     attributes:
       _all:
         created_at: "Criado em"
         updated_at: "Ultima modificação"
-      empresa:
-        cnpj: "CNPJ"
-        nome_fantasia: "Nome fantasia"
-        razao_social: "Raz&atilde;o social"
-        responsavel: "Respons&aacute;vel"
-        email: "E-mail"
-        cep: "CEP"
-        endereco: "Endere&ccedil;o"
-        ddd: "DDD"
-        como_soube_desse_site: "Como soube deste site?"
-        denominacao_social: "Denomina&ccedil;&atilde;o social"
+      exercicio:
+        frequencia_cardiaca: "Frequência Cardíaca"
       vaga:
         titulo: "T&iacute;tulo do an&uacute;ncio"
-        descricao: "Descri&ccedil;&atilde;o"
-        quantidade: "Quantidade"
-        cidade: "Cidade"
-        divulga_data_inicial: "Per&iacute;odo de divulga&ccedil;&atilde;o"
-        divulga_data_final: "Data final de divulga&ccedil;&atilde;o"
-        divulgar_nome: "Divulgar nome da empresa"
-        tipo_salarial: "Tipo salarial"
-        salario_faixa_min: "De"
-        salario_faixa_max: "At&eacute;"
-        comissao: "M&eacute;dia de comiss&atilde;o"
-        experiencia: "Experi&ecirc;ncia requerida"
-        escolaridade: "Escolaridade m&iacute;nima"
-        idade_min: "Idade"
-        idade_max: "at&eacute;"
-        carga_horaria: "Carga hor&aacute;ria"
-        receber_curriculos: "Autorizar recebimento de curr&iacute;culos direto do candidato"
-        conhecimentos_obrigatorios: "Conhecimentos obrigat&oacute;rios"
-        conhecimentos_desejaveis: "Conhecimentos desej&aacute;veis"
-        beneficios: "Benef&iacute;cios"
-        ingles: "Ingl&ecirc;s"
-      curriculo:
-        nome: "Nome"
-        email: "Email"
-        cpf: "CPF"
-        senha: "Senha"
-        cep: "CEP"
-        endereco: "Endere&ccedil;o"
-        ddd: "DDD"
-        como_soube: "Como soube deste site?"
-        divulgar_nome: "Divulgar meu nome"
-        data_nascimento: "Data de nascimento"
-        empregado: "Empregado atualmente"
-        tipo_combinar: "A combinar"
-        escolaridade: "Escolaridade"
-        situacao: "Situa&ccedil;&atilde;o"
-        area_formacao: "&Aacute;rea de forma&ccedil;&atilde;o"
-        instituicao: "Institui&ccedil;&atilde;o"
-        conclusao_mes: "Conclusão"
-        conclusao_ano: "de"
-        salario: "Pretens&atilde;o salarial"
-        conclusao_mes: "Conclus&atilde;o"
-        conclusao_ano: "Ano de conclus&atilde;o"
-        observacoes_complementares: "Observa&ccedil;&otilde;es complementares"
       password_resets:
         password: "Nova senha"
         password_confirmation: "Digite a senha novamente"
@@ -213,7 +164,6 @@ pt-BR:
         password: "Senha"
         password_confirmation: "Confirmação de senha"
         email: "E-mail"
-
   authlogic:
     error_messages:
       login_blank: "deve ser preenchido"
@@ -240,15 +190,12 @@ pt-BR:
         new_password: "Nova senha:"
         password: "Senha:"
         password_confirmation: "Confirma&ccedil;&atilde;o de senha:"
-        empresa: "Empresa:"
         email: "Email:"
         login: "Login:"
         fone: "Telefone:"
         celular: "Celular:"
         perfil: "Perfil:"
         nome: "Nome:"
-        premio: "Pr&ecirc;mio"
-
   txt:
     shared:
       create: Salvar

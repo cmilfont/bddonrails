@@ -1,3 +1,4 @@
+# language: pt
 Feature: Registrar exercicio
   Como um atleta
   Eu quero registrar meus exercicios

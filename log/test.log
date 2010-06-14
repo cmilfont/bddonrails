@@ -545,3 +545,33 @@ Rendering template within layouts/exercicios
 Rendering exercicios/show
   [4;35;1mTipoDeExercicio Load (1.1ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` WHERE (`tipo_de_exercicios`.`id` = 3) [0m
 Completed in 61ms (View: 19, DB: 37) | 200 OK [http://localhost/exercicios/1]
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET NAMES 'utf8'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET SQL_AUTO_IS_NULL=0[0m
+
+
+Processing ExerciciosController#new (for 127.0.0.1 at 2010-02-19 09:41:16) [GET]
+  [4;36;1mExercicio Columns (14.8ms)[0m   [0;1mSHOW FIELDS FROM `exercicios`[0m
+Rendering template within layouts/exercicios
+Rendering exercicios/new
+  [4;35;1mTipoDeExercicio Load (15.0ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` [0m
+  [4;36;1mTipoDeExercicio Columns (2.7ms)[0m   [0;1mSHOW FIELDS FROM `tipo_de_exercicios`[0m
+Rendered exercicios/_form (329.1ms)
+Completed in 433ms (View: 385, DB: 33) | 200 OK [http://localhost/exercicios/new]
+
+
+Processing ExerciciosController#create (for 127.0.0.1 at 2010-02-19 09:41:45) [POST]
+  Parameters: {"commit"=>"Enviar", "exercicio"=>{"fim(2i)"=>"2", "fim(3i)"=>"25", "fim(4i)"=>"11", "fim(5i)"=>"30", "inicio(1i)"=>"2009", "tipo_de_exercicio_id"=>"3", "inicio(2i)"=>"2", "inicio(3i)"=>"25", "inicio(4i)"=>"10", "frequencia_cardiaca"=>"155", "inicio(5i)"=>"30", "fim(1i)"=>"2009"}}
+  [4;35;1mSQL (0.3ms)[0m   [0mBEGIN[0m
+  [4;36;1mExercicio Create (0.8ms)[0m   [0;1mINSERT INTO `exercicios` (`created_at`, `tipo_de_exercicio_id`, `updated_at`, `inicio`, `frequencia_cardiaca`, `fim`) VALUES('2010-02-19 12:41:45', 3, '2010-02-19 12:41:45', '2009-02-25 10:30:00', 155, '2009-02-25 11:30:00')[0m
+  [4;35;1mSQL (3.0ms)[0m   [0mCOMMIT[0m
+Redirected to http://localhost:3001/exercicios/1
+Completed in 25ms (DB: 4) | 302 Found [http://localhost/exercicios]
+
+
+Processing ExerciciosController#show (for 127.0.0.1 at 2010-02-19 09:41:45) [GET]
+  Parameters: {"id"=>"1"}
+  [4;36;1mExercicio Load (36.0ms)[0m   [0;1mSELECT * FROM `exercicios` WHERE (`exercicios`.`id` = 1) [0m
+Rendering template within layouts/exercicios
+Rendering exercicios/show
+  [4;35;1mTipoDeExercicio Load (0.8ms)[0m   [0mSELECT * FROM `tipo_de_exercicios` WHERE (`tipo_de_exercicios`.`id` = 3) [0m
+Completed in 60ms (View: 17, DB: 37) | 200 OK [http://localhost/exercicios/1]
